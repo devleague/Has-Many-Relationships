@@ -62,7 +62,7 @@ To run sql statements from an external file, use the \i [filepath] command.
 | comments     | Belongs To              | users        |
 | comments     | Belongs To              | posts        |
 
-Reading relationship information in a table format can be difficult, whiteboarding the the relationship model in UML/ERD format is ~~highly recommended~~ required.
+Reading relationship information in a table format can be difficult, whiteboarding the relationship model in UML/ERD format is ~~highly recommended~~ required.
 
 ## Queries across multiple tables
 
