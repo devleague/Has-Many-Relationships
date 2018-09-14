@@ -87,4 +87,4 @@ Write the following SQL statements in `joins.sql`
 If you finish early, perform and record the following SQL statements in `joins.sql` using these higher level requirements.
 
 1. Count how many comments have been written on posts that have been created after July 14, 2015 ( should have one result, the value of the count should be 27)
-1. Find all users who comment about 'programming' ( should have 336 results)
+1. Find all users who comment about 'programming' ( should have 337 results)
