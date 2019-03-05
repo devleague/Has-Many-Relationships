@@ -1,8 +1,6 @@
 # Has Many Relationships
 
-When connecting to your pg database, connect from this project directory.
-
-To run sql statements from an external file, use the \i [filepath] command.
+To run sql statements from an external file, load them into DBeaver and run them from there.
 
 ### SQL 1-n Relationships and Joins Exercise in PostgreSQL
 
