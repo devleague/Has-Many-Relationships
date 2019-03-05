@@ -1,6 +1,6 @@
 # Has Many Relationships
 
-To run sql statements from an external file, load them into DBeaver and run them from there.
+To run sql statements from an external file, load them into your RDBMS client and run the commands from there.
 
 ### SQL 1-n Relationships and Joins Exercise in PostgreSQL
 
